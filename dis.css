@@ -1,0 +1,56 @@
+img { 
+	aling:center;
+ }
+
+.container img{
+    align: center;
+    align-items: center;
+}
+
+#nuestros-programas .programas img{
+border-radius: 15px;
+    align:center;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+}
+
+#nuestros-programas .container img{
+border-radius: 15px;
+    align:center;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+}
+
+
+
+.container h2{
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+    align: center;
+ }
+
+ header .container P{ 
+ 	padding-right: 30%;
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+ }
+ .texto img { 
+ 	border-radius: 15px;
+    align:center;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+     }
+
+
+
+#somos-proya .texto{
+border-radius: 15px;
+    align:center;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+ } 
+
+
+
